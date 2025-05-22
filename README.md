@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @donsquido
-- 👀 I’m interested in ...coding, and ofcourse cricket 🏏 
-- 🌱 I’m currently learning ...Bachelor's degree in IT Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...coding...
+- 🌱 I’m currently pursuing...Bachelor's degree in IT Engineering 
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me ...arkammalbari007@gmail.com 
 
 <!---
